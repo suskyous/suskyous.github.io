@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suskyous.github.io/sitemap.html.gz
+Sitemap: https://suskyous.github.io/app/sitemap.html.gz
+Sitemap: https://suskyous.github.io/assets/sitemap.html.gz
+Sitemap: https://suskyous.github.io/css/sitemap.html.gz
+Sitemap: https://suskyous.github.io/includes/sitemap.html.gz
+Sitemap: https://suskyous.github.io/item/sitemap.html.gz
+Sitemap: https://suskyous.github.io/src/sitemap.html.gz
